@@ -1,0 +1,7 @@
+torch==1.13.1
+torchvision==0.14.1
+numpy==1.23.1
+scikit-image==0.19.3
+matplotlib==3.5.1
+imageio==2.9.0
+torchattack==3.3.0
